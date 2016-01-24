@@ -1,0 +1,12 @@
+D:\MyProjects\LawDocDB\LawDocDB\bin\Debug\LawDocDB.exe.config
+D:\MyProjects\LawDocDB\LawDocDB\bin\Debug\LawDocDB.exe
+D:\MyProjects\LawDocDB\LawDocDB\bin\Debug\LawDocDB.pdb
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.IdentificationForm.resources
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.MainForm.resources
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.Properties.Resources.resources
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.SettingsForm.resources
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.csproj.GenerateResource.Cache
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.exe
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.pdb
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.csprojResolveAssemblyReference.cache
+D:\MyProjects\LawDocDB\LawDocDB\obj\Debug\LawDocDB.MailSendForm.resources
